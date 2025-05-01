@@ -124,7 +124,8 @@
             "Scientific Calculator" => "math_tools/Scientific_Calculator.php",
             "Discount Calculator" => "math_tools/Discount_Calculator.php",
             "BMI Calculator" => "math_tools/BMI_Calculator.php",
-            "Tip Calculator" => "math_tools/Tip_Calculator.php"
+            "Tip Calculator" => "math_tools/Tip_Calculator.php",
+            "Love Calculator"=>"math_tools/love_calculator.php",
         ];
         foreach ($math_tools as $name => $link) {
             echo '<div class="col-md-3 col-sm-6 mb-4">
